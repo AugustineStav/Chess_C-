@@ -1,0 +1,3 @@
+#pragma once
+enum Color { NEUTRAL, BLACK, WHITE };
+enum Coord { ZEROCOORD, ACOORD, BCOORD, CCOORD, DCOORD, ECOORD, FCOORD, GCOORD, HCOORD };
